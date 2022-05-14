@@ -21,6 +21,7 @@ Vector3 LocalPlayer::GetLocation() {
 	else return { 0, 0, 0 };
 }
 
+//nerabo4iy mysor
 //Vector3 LocalPlayer::GetBonePosition(int bone) {
 //	DWORD player = GetLocalPlayer();
 //	if (player) {
