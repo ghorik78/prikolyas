@@ -1,5 +1,6 @@
 #include "includes.h"
 
+//NE TROGAI ETO CHORT
 bool WorldToScreen(Vector3 pos, Vector2& screen, float Matrix[16], int width, int height) {
 	Vector4 ClipCoords;
 	ClipCoords.x = pos.x * Matrix[0] + pos.y * Matrix[1] + pos.z * Matrix[2] + Matrix[3];
