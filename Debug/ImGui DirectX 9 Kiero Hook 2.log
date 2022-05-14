@@ -1,0 +1,39 @@
+﻿  AimBot.cpp
+  BunnyHop.cpp
+  CalcAngle.cpp
+D:\Hack\ImGui DirectX 9 Kiero Hook 2\CalcAngle.cpp(6,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Entity.cpp
+  GameEngine.cpp
+  LocalPLayer.cpp
+  NoFlash.cpp
+D:\Hack\ImGui DirectX 9 Kiero Hook 2\NoFlash.cpp(4,13): warning C4101: E: неиспользованная локальная переменная
+  RCS.cpp
+D:\Hack\ImGui DirectX 9 Kiero Hook 2\RCS.cpp(5,13): warning C4101: E: неиспользованная локальная переменная
+  ThirdPerson.cpp
+  TriggerBot.cpp
+  WallHack.cpp
+D:\Hack\ImGui DirectX 9 Kiero Hook 2\WallHack.cpp(23,68): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Hack\ImGui DirectX 9 Kiero Hook 2\WallHack.cpp(24,68): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Hack\ImGui DirectX 9 Kiero Hook 2\WallHack.cpp(25,69): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Hack\ImGui DirectX 9 Kiero Hook 2\WallHack.cpp(31,68): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Hack\ImGui DirectX 9 Kiero Hook 2\WallHack.cpp(32,68): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+D:\Hack\ImGui DirectX 9 Kiero Hook 2\WallHack.cpp(33,69): warning C4244: =: преобразование "int" в "FLOAT", возможна потеря данных
+  WorldToScreen.cpp
+  main.cpp
+D:\Hack\ImGui DirectX 9 Kiero Hook 2\main.cpp(19,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/FORCE"
+BunnyHop.obj : warning LNK4006: "class UserSettings Settings" (?Settings@@3VUserSettings@@A) уже определен в AimBot.obj; второе определение пропущено
+CalcAngle.obj : warning LNK4006: "class UserSettings Settings" (?Settings@@3VUserSettings@@A) уже определен в AimBot.obj; второе определение пропущено
+Entity.obj : warning LNK4006: "class UserSettings Settings" (?Settings@@3VUserSettings@@A) уже определен в AimBot.obj; второе определение пропущено
+GameEngine.obj : warning LNK4006: "class UserSettings Settings" (?Settings@@3VUserSettings@@A) уже определен в AimBot.obj; второе определение пропущено
+LocalPLayer.obj : warning LNK4006: "class UserSettings Settings" (?Settings@@3VUserSettings@@A) уже определен в AimBot.obj; второе определение пропущено
+main.obj : warning LNK4006: "class UserSettings Settings" (?Settings@@3VUserSettings@@A) уже определен в AimBot.obj; второе определение пропущено
+NoFlash.obj : warning LNK4006: "class UserSettings Settings" (?Settings@@3VUserSettings@@A) уже определен в AimBot.obj; второе определение пропущено
+RCS.obj : warning LNK4006: "class UserSettings Settings" (?Settings@@3VUserSettings@@A) уже определен в AimBot.obj; второе определение пропущено
+ThirdPerson.obj : warning LNK4006: "class UserSettings Settings" (?Settings@@3VUserSettings@@A) уже определен в AimBot.obj; второе определение пропущено
+TriggerBot.obj : warning LNK4006: "class UserSettings Settings" (?Settings@@3VUserSettings@@A) уже определен в AimBot.obj; второе определение пропущено
+WallHack.obj : warning LNK4006: "class UserSettings Settings" (?Settings@@3VUserSettings@@A) уже определен в AimBot.obj; второе определение пропущено
+WorldToScreen.obj : warning LNK4006: "class UserSettings Settings" (?Settings@@3VUserSettings@@A) уже определен в AimBot.obj; второе определение пропущено
+D:\Hack\Debug\Prikolyas.dll : warning LNK4088: образ создается из-за параметра /FORCE; образ нельзя запустить
+  ImGui DirectX 9 Kiero Hook 2.vcxproj -> D:\Hack\Debug\Prikolyas.dll
