@@ -1,13 +1,13 @@
 #include "includes.h"
 
 DWORD WINAPI RCSThread(HMODULE hMod) {
-	//утащить в глобал
+	//ГіГІГ Г№ГЁГІГј Гў ГЈГ«Г®ГЎГ Г«
 	LocalPlayer L;
 	GameEngine E;
 	Vector3 oldPunch{ 0, 0, 0 };
 	while (!GetAsyncKeyState(VK_END)) {
 
-		DWORD localPlayer = L.GetLocalPlayer();
+		DWORD localPlayer = L.GetLocalPlayer(); //check that shit
 
 		if (Settings.enableRCS) {
 			if (localPlayer) {
