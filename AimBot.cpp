@@ -7,7 +7,7 @@ DWORD WINAPI AimBotThread(HMODULE hMod) {
 	int screenX = GetSystemMetrics(SM_CXSCREEN);
 	int screenY = GetSystemMetrics(SM_CYSCREEN);
 
-	//убрать Пифагора
+	//kick Pifagora
 	float closestEntity = 1000 * 1000;
 	uintptr_t bestEntity = NULL;
 
@@ -56,8 +56,6 @@ DWORD WINAPI AimBotThread(HMODULE hMod) {
 
 							bestEntity = PotentialTarget;
 							closestEntity = dist;
-
-							
 
 							if (GetAsyncKeyState(VK_MENU)) {
 								localTeam = *(DWORD*)(localPlayer + m_iTeamNum);
